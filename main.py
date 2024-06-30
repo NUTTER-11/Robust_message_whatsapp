@@ -6,7 +6,7 @@ import pywhatkit
 
 def sendtimestampmsg():
     wb.open("https://web.whatsapp.com/")
-    pywhatkit.sendwhatmsg('+917814566762','yours nipun', 22, 12)
+    pywhatkit.sendwhatmsg('enter_your_mobile_no','enter_your name', 22, 12)
 
 
 def spam100():
